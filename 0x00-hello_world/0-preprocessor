@@ -1,2 +1,2 @@
 #!/bin/bash
-sh: 1: q: not found
+gcc -E -P $CFILE -o c
