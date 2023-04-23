@@ -20,4 +20,4 @@ int sum_them_all(const unsigned int n, ...)
 	va_end(list);
 
 	return (sum);
-sh: 1: q: not found
+}
